@@ -1,6 +1,6 @@
 # ShortCut
 
-##Reducing Android Redundant Tasks Easily
+## Reducing Android Redundant Tasks Easily
 
 This Repo has the Basic &amp; Advanced Utilities Used in Android Projects.
 
@@ -8,14 +8,14 @@ This Repo has the Basic &amp; Advanced Utilities Used in Android Projects.
 
 **Image-ShortCut**
 
-This Utility is used to Perform the Basic Operations in Android related to the 
+This Utility is used to Perform the Basic Operations in Android related to the
 File and The Uri System (Updating Currently)
 
 **Utility-Name** : `/ImageShortCut`
 
 **Used-in** : `E-commerce or Social Media Apps`
 
-**Method 1** : ` public static File getFile(Context context, Uri uri) 
+**Method 1** : ` public static File getFile(Context context, Uri uri)
 throws IOException`
 
 **Method example**
@@ -24,9 +24,9 @@ throws IOException`
 }catch(IOException e){
 }`
 
-##Validation-ShortCut
+## Validation-ShortCut
 
-This Utility is used to Perform the Operations mainly related to the 
+This Utility is used to Perform the Operations mainly related to the
 User Input and Output operations
 
 **Utility-Name** : `/ValidationShortCut`
@@ -49,7 +49,7 @@ This Method checks if the Entered String is a Valid Email or Not , returns a boo
 This Method checks if the given string is a valid Zipcode for the US or not and Returns a boolean value accordingly.
 
 
-##Retrofit-ShortCut
+## Retrofit-ShortCut
 
 This Utility is used to perform the basic and advanced Network Related Operations in Android
 
@@ -76,12 +76,12 @@ This Method is generally used to Check if the retrofit response is OK (200) or N
 
 This Method is Used to check if the a response Key is present in the Retrofit Response or not.
 
-##Fragment-ShortCut
+## Fragment-ShortCut
 
-This Utility is used to perform all the Operations related to the Fragments like the Adding , Replacing the Fragment 
+This Utility is used to perform all the Operations related to the Fragments like the Adding , Replacing the Fragment
 and more.
 
-##KeyBoard-ShortCut
+## KeyBoard-ShortCut
 
 This Utility is used to perform tasks related to the android Keyboard , like hiding and Showing the
 android soft keyboard.
