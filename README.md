@@ -4,7 +4,7 @@
 
 This Repo has the Basic &amp; Advanced Utilities Used in Android Projects.
 
-#### This Repository is Currently Updating on the Move.
+####This Repository is Currently Updating on the Move.
 
 ###Image-ShortCut
 
@@ -24,7 +24,7 @@ throws IOException`
 }catch(IOException e){
 }`
 
-### Validation-ShortCut
+###Validation-ShortCut
 
 This Utility is used to Perform the Operations mainly related to the 
 User Input and Output operations
@@ -49,7 +49,7 @@ This Method checks if the Entered String is a Valid Email or Not , returns a boo
 This Method checks if the given string is a valid Zipcode for the US or not and Returns a boolean value accordingly.
 
 
-### Retrofit-ShortCut
+###Retrofit-ShortCut
 
 This Utility is used to perform the basic and advanced Network Related Operations in Android
 
@@ -76,12 +76,12 @@ This Method is generally used to Check if the retrofit response is OK (200) or N
 
 This Method is Used to check if the a response Key is present in the Retrofit Response or not.
 
-### Fragment-ShortCut
+###Fragment-ShortCut
 
 This Utility is used to perform all the Operations related to the Fragments like the Adding , Replacing the Fragment 
 and more.
 
-### KeyBoard-ShortCut
+###KeyBoard-ShortCut
 
 This Utility is used to perform tasks related to the android Keyboard , like hiding and Showing the
 android soft keyboard.
