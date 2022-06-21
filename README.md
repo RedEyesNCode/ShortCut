@@ -76,6 +76,11 @@ This Method is generally used to Check if the retrofit response is OK (200) or N
 
 This Method is Used to check if the a response Key is present in the Retrofit Response or not.
 
+**Json Pojo Parsing Good Practice**
+
+With @Serializable and @Expose , also try to use @Nullable in this way to can reduce the null checks on the string or any type , this helps a lot when setting text to text View
+
+
 ## Fragment-ShortCut
 
 This Utility is used to perform all the Operations related to the Fragments like the Adding , Replacing the Fragment
