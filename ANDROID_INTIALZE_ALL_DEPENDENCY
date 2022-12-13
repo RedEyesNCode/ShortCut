@@ -20,6 +20,11 @@ implementation "androidx.lifecycle:lifecycle-livedata:2.3.1"
 implementation 'de.hdodenhof:circleimageview:3.1.0'
 implementation 'com.makeramen:roundedimageview:2.3.0'
 
+// OTP PIN VIEW 
+
+        implementation 'com.github.mukeshsolanki:android-otpview-pinview:3.0.0'
+
+
 //sdp font library
 
 implementation 'com.intuit.sdp:sdp-android:1.0.6'
@@ -49,7 +54,6 @@ annotationProcessor 'com.github.bumptech.glide:compiler:4.12.0'
  //Room Database
     implementation "androidx.room:room-runtime:2.4.1"
     annotationProcessor "androidx.room:room-compiler:2.4.1"
-
 
 // Dagger hilt dependency 
 // Place in Build.Gradle
